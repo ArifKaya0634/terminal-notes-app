@@ -1,4 +1,5 @@
 # Terminal Notes App 📜
+My first terminal-based Python project. A simple notes application with file creation, note reading, and active file management features.
 
 Simple terminal-based notes application written in Python.
 
