@@ -1,5 +1,4 @@
-# terminal-notes-app
-# Terminal Notes App
+# Terminal Notes App 📜
 
 Simple terminal-based notes application written in Python.
 
